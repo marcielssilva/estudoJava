@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74ce165-5f76-4f36-81cc-b4e5964d0d88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controle-fluxo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CaixaEletronico.java" afterDir="false" />
+    <list default="true" id="b74ce165-5f76-4f36-81cc-b4e5964d0d88" name="Changes" comment="CONTROLE DE FLUXO SIMPLES">
+      <change afterPath="$PROJECT_DIR$/src/ResultadoEscolar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +35,7 @@
   "keyToString": {
     "Application.App.executor": "Run",
     "Application.CaixaEletronico.executor": "Run",
+    "Application.ResultadoEscolar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -66,22 +63,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714503302005</updated>
-      <workItem from="1714503303033" duration="344000" />
+      <workItem from="1714503303033" duration="1272000" />
     </task>
+    <task id="LOCAL-00001" summary="CONTROLE DE FLUXO SIMPLES">
+      <option name="closed" value="true" />
+      <created>1714503788082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714503788082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CaixaEletronico.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CONTROLE DE FLUXO SIMPLES" />
+    <option name="LAST_COMMIT_MESSAGE" value="CONTROLE DE FLUXO SIMPLES" />
   </component>
 </project>
