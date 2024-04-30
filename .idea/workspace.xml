@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b74ce165-5f76-4f36-81cc-b4e5964d0d88" name="Changes" comment="CONTROLE DE FLUXO SIMPLES">
-      <change afterPath="$PROJECT_DIR$/src/ResultadoEscolar.java" afterDir="false" />
+    <list default="true" id="b74ce165-5f76-4f36-81cc-b4e5964d0d88" name="Changes" comment="CONTROLE DE FLUXO SIMPLES&#10;+UPDATE CONTROLE DE FLUXO COMPOSTO">
+      <change beforePath="$PROJECT_DIR$/src/CaixaEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CaixaEletronico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714503302005</updated>
-      <workItem from="1714503303033" duration="1272000" />
+      <workItem from="1714503303033" duration="1583000" />
     </task>
     <task id="LOCAL-00001" summary="CONTROLE DE FLUXO SIMPLES">
       <option name="closed" value="true" />
@@ -73,14 +73,34 @@
       <option name="project" value="LOCAL" />
       <updated>1714503788082</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CONTROLE DE FLUXO SIMPLES&#10;+UPDATE CONTROLE DE FLUXO COMPOSTO">
+      <option name="closed" value="true" />
+      <created>1714504758391</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714504758391</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CONTROLE DE FLUXO SIMPLES" />
-    <option name="LAST_COMMIT_MESSAGE" value="CONTROLE DE FLUXO SIMPLES" />
+    <MESSAGE value="CONTROLE DE FLUXO SIMPLES&#10;+UPDATE CONTROLE DE FLUXO COMPOSTO" />
+    <option name="LAST_COMMIT_MESSAGE" value="CONTROLE DE FLUXO SIMPLES&#10;+UPDATE CONTROLE DE FLUXO COMPOSTO" />
   </component>
 </project>
